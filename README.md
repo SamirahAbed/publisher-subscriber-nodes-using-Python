@@ -1,5 +1,5 @@
 # publisher-subscriber-nodes-using-Python
-2 nodes shared a string message in a custom package on ROS
+# 2 nodes shared a string message in a custom package on ROS
 
 First : Create a ROS workspace (choose directory to work on it)
 I make it inside document
@@ -37,6 +37,6 @@ Third : Create publisher & subscriber nodes using Python:
   $ chmod +x Publish.py    // to chaneg the premissions of file
   $ python3 Publish.py
   
-- rebaate same steps on previous stage  with Subsecribe.py
+- repeate same steps on previous stage  with Subsecribe.py
 
 
